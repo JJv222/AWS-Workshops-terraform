@@ -1,0 +1,21 @@
+# Terraform
+**/.terraform/*
+.terraform/
+
+*.tfstate
+*.tfstate.*
+
+crash.log
+crash.*.log
+
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+.DS_Store
+Thumbs.db
+
+./modules/myLambda/build/
+terraform.exe
