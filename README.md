@@ -85,7 +85,7 @@ These repositories complement this infrastructure project by providing the appli
 | Variant | Folder | Authentication | File Storage | Database | Runtime | Monitoring |
 |---|---|---|---|---|---|---|
 | AWS Native | `ChmuraInfra-AWS-native` | AWS Cognito | AWS S3 | AWS RDS | ECS Fargate | CloudWatch |
-| AWS Independent | `ChmuraInfra-AWS-independent` | Keycloak | MinIO | Self-hosted PostgreSQL / MongoDB | ECS Fargate + EFS | Prometheus + Grafana |
+| AWS Independent | `ChmuraInfra-AWS-independent` | Keycloak | MinIO | Self-hosted PostgreSQL | ECS Fargate + EFS | Prometheus + Grafana |
 
 ---
 
